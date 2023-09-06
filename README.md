@@ -12,7 +12,7 @@
 
 ## General Info
 
-Sitio web creado para el curso de "Python" en Coderhouse.
+Repósitorio creado para amantes de Python, en el mismo se irán subiendo características educativas del lenguaje.
 </br>
 Ramas de trabajo: El mismo cuenta con dos ramas de trabajo: Master (donde se aloja el proyecto final) y en la rama V.01 donde se trabajan las updates y fix para luego pasarlas a producción.
 

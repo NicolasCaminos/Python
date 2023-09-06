@@ -1,6 +1,5 @@
 # Python
 
-# Infinity-Shop
 
 1. [General Info](#general-info)
 2. [Technologies](#technologies)

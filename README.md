@@ -40,7 +40,7 @@ https://github.com/NicolasCaminos/infinity-shop/assets/45422512/acd48ce5-8b9c-45
 
 ## Installation
 
-Para instalar los paquetes usados en el proyecto puede utilizar los siguientes comandos.
+Para instalar los paquetes usados en el proyecto puede utilizar el siguiente link donde tendrás el instalador:
 
 ```
 https://www.python.org/

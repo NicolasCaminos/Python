@@ -1,6 +1,16 @@
-.vscode
+##No se habiltan pusheo de carpeta: .vscode
+*.vscode
 
-Grupos de trabajos.xlsx
 
-Python para todos.pdf
-.jpg
+#No se habiltan pusheo de archivos: .pdf
+*.pdf
+
+#No se habiltan pusheo de archivos: .zip
+*.zip
+
+# Al estar aún es proceso no se cargará el archivos: Ejercicios.ipynb
+Ejercicios.ipynb
+
+
+# #No se habiltan pusheo de archivos: .xlsx
+*.xlsx

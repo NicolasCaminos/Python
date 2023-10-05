@@ -1,24 +1,16 @@
-# Python
-
-
-1. [General Info](#general-info)
-2. [Technologies](#technologies)
-3. [Installation](#installation)
-4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
-
----
-
-## General Info
-
-Repósitorio creado para amantes de Python, en el mismo se irán subiendo características educativas del lenguaje .
+Python
+General Info
+Technologies
+Folders
+Installation
+Collaboration
+FAQs
+General Info
+Repository created for Python enthusiasts, where educational features of the language will be uploaded.
 </br>
-Ramas de trabajo: El mismo cuenta con dos ramas de trabajo: Master (donde se aloja el proyecto final) y en la rama V.01 donde se trabajan las updates y fix para luego pasarlas a producción.
+Branches: The repository has two branches: Master (where the final project is hosted) and the V.01 branch where updates and fixes are worked on before being deployed to production.
 
 </br>
-
----
-
 <!-- ### Screenshot
 
 <h4> Demo</h4>
@@ -27,20 +19,19 @@ https://github.com/NicolasCaminos/infinity-shop/assets/45422512/acd48ce5-8b9c-45
 
 
 </br> -->
-
-## Technologies
-
+Technologies
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.python.org/static/img/python-logo@2x.png" alt="Python" width="150" height="80"/> </a> <h2>3.11.5</h2>
-
+<p align="left">
+<a href="https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/01.01-Help-And-Documentation.ipynb" target="_blank" rel="noreferrer"> <img src="https://elc.github.io/blog/images/jupyter-publishing/ipynb-format.png" alt="Python" width="80" height="80"/> </a> <h2>IPython</h2>
 </br>
-
----
-
-## Installation
-
-Para instalar los paquetes usados en el proyecto puede utilizar el siguiente link donde tendrás el instalador:
+Folders
+<li>📂 Data Science Tutorials</li>
+<li>📁 First Delivery</li>
+</br>
+Installation
+To install the packages used in the project, you can use the following link where you will find the installer:
 
 ```
 https://www.python.org/
@@ -49,22 +40,13 @@ https://www.python.org/
 
 ---
 
-## Collaboration
-
+Collaboration
 <li>Nicolás Caminos</li>
+</br>
+FAQs
+All required documentation can be found at <a href="https://www.python.org/">https://www.python.org/</a>
 
 </br>
-
----
-
-## FAQs
-
-Toda la documentanción requerida se encuentra en <a href="https://www.python.org/">https://www.python.org/</a>
-
-
+Thank you very much.
 </br>
 
-Muchas Gracias.
-</br>
-
----

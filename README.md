@@ -1,24 +1,29 @@
-Python
-General Info
-Technologies
-Folders
-Installation
-Collaboration
-FAQs
-General Info
-Repository created for Python enthusiasts, where educational features of the language will be uploaded.
-</br>
-Branches: The repository has two branches: Master (where the final project is hosted) and the V.01 branch where updates and fixes are worked on before being deployed to production.
+# Python Repository
 
-</br>
-<!-- ### Screenshot
+1. [General Info](#general-info)
+2. [Technologies](#technologies)
+3. [Folder Structure](#folder-structure)
+4. [Installation](#installation)
+5. [Collaborators](#collaborators)
+6. [FAQs](#faqs)
 
-<h4> Demo</h4>
+---
 
-https://github.com/NicolasCaminos/infinity-shop/assets/45422512/acd48ce5-8b9c-453c-af95-5a74da34bbc9
+## General Info
 
-</br> -->
-Technologies
+Welcome to the Python Repository! This is a space created for Python enthusiasts, dedicated to sharing educational content and features related to the Python programming language.
+
+### Branches
+
+We maintain two main branches in this repository:
+
+- **Master**: This is where the final, production-ready project resides.
+- **V.01**: In this branch, we actively work on updates and fixes before they are deployed to production. It's the development branch of our project.
+
+---
+
+## Technologies
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -26,30 +31,32 @@ Technologies
 <p align="left">
 <a href="https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/01.01-Help-And-Documentation.ipynb" target="_blank" rel="noreferrer"> <img src="https://elc.github.io/blog/images/jupyter-publishing/ipynb-format.png" alt="Python" width="80" height="80"/> </a> <h2>IPython</h2>
 </br>
-Folders
-<li>📂 Data Science Tutorials</li>
-<li>📁 First Delivery</li>
-</br>
 
 ---
 
-Installation
-To install the packages used in the project, you can use the following link where you will find the installer:
+## Folder Structure
 
-```
-https://www.python.org/
-
-```
+- 📂 **Data Science Tutorials**
+- 📁 **First Delivery**
 
 ---
 
-Collaboration
+## Installation
 
-<li>Nicolás Caminos</li>
-</br>
-FAQs
-All required documentation can be found at <a href="https://www.python.org/">https://www.python.org/</a>
+To install the required packages for this project, please visit [Python's official website](https://www.python.org/) and use the provided installer.
 
-</br>
-Thank you very much.
-</br>
+---
+
+## Collaborators
+
+- Nicolás Caminos
+
+---
+
+## FAQs
+
+For any questions or further information, please refer to the [official Python documentation](https://www.python.org/).
+
+---
+
+Thank you for visiting our Python Repository!

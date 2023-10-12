@@ -1,7 +1,8 @@
 {
     "[python]": {
-        "editor.defaultFormatter": "ms-python.python"
+        "editor.defaultFormatter": "ms-python.autopep8"
     },
     "python.formatting.provider": "none",
     "python.analysis.typeCheckingMode": "basic",
+    "editor.suggest.showTypeParameters": true,
 }

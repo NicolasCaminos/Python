@@ -24,7 +24,6 @@ We maintain two main branches in this repository:
 
 ## Technologies
 
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.python.org/static/img/python-logo@2x.png" alt="Python" width="150" height="80"/> </a> <h2>3.11.5</h2>
@@ -37,7 +36,7 @@ We maintain two main branches in this repository:
 ## Folder Structure
 
 - 📂 **Data Science Tutorials**
-- 📁 **First Delivery**
+- 📁 **Pyhton**
 
 ---
 

@@ -1,4 +1,4 @@
-# Primera Prentrega
+# Python
 
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
@@ -67,7 +67,7 @@ To install the required packages for this project, please visit [Python's offici
 
 For any questions or further information, please refer to the [official Python documentation](https://www.python.org/).
 
-Link: 
+Link:
 
 ---
 

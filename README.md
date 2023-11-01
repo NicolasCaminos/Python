@@ -36,7 +36,7 @@ We maintain two main branches in this repository:
 ## Folder Structure
 
 - 📂 **Data Science Tutorials**
-- 📁 **Pyhton**
+
 
 ---
 

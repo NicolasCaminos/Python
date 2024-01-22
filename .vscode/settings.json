@@ -5,4 +5,7 @@
     "python.formatting.provider": "none",
     "python.analysis.typeCheckingMode": "basic",
     "editor.suggest.showTypeParameters": true,
+    "editor.fontSize": 10,
+    "files.autoSave": "onFocusChange",
+    "editor.tabSize": 2,
 }
